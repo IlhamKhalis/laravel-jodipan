@@ -3,7 +3,7 @@
       <div class="row">
         <div class="col-md-3 mb-4 ms-auto">
           <div>
-            <a href="#">
+            <a href="{{ route('home.homeEn') }}">
               <img src="./assets/img/logo-ct-dark.png" class="mb-3 footer-logo" alt="main_logo">
             </a>
             <h6 class="font-weight-bolder mb-4">Kampung Warna Warni Jodipan</h6>

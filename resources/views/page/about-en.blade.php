@@ -58,7 +58,6 @@
         <div class="row">
           <div class="col-md-8 text-start mb-5 mt-5">
             <h3 class="text-white z-index-1 position-relative">Pioneers of Jodipan Kampung Warna-Warni</h3>
-            <p class="text-white opacity-8 mb-0">There’s nothing I really wanted to do in life that I wasn’t able to get good at. That’s my skill.</p>
           </div>
         </div>
         <div class="row">
@@ -66,17 +65,11 @@
             <div class="card card-profile mt-4">
               <div class="row">
                 <div class="col-lg-4 col-md-6 col-12 mt-n5">
-                  <a href="javascript:;">
-                    <div class="p-3 pe-md-0">
-                      <img class="w-100 border-radius-md shadow-lg" src="" alt="image">
-                    </div>
-                  </a>
                 </div>
                 <div class="col-lg-8 col-md-6 col-12 my-auto">
                   <div class="card-body ps-lg-0">
                     <h5 class="mb-0">S Parin</h5>
                     <h6 class="text-info">Chairman</h6>
-                    <p class="mb-0">Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
                   </div>
                 </div>
               </div>
@@ -86,17 +79,11 @@
             <div class="card card-profile mt-lg-4 mt-5">
               <div class="row">
                 <div class="col-lg-4 col-md-6 col-12 mt-n5">
-                  <a href="javascript:;">
-                    <div class="p-3 pe-md-0">
-                      <img class="w-100 border-radius-md shadow-lg" src="" alt="image">
-                    </div>
-                  </a>
                 </div>
                 <div class="col-lg-8 col-md-6 col-12 my-auto">
                   <div class="card-body ps-lg-0">
                     <h5 class="mb-0">Hadi Suseno</h5>
                     <h6 class="text-info">Secretary</h6>
-                    <p class="mb-0">Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
                   </div>
                 </div>
               </div>
@@ -108,17 +95,11 @@
             <div class="card card-profile mt-4 z-index-2">
               <div class="row">
                 <div class="col-lg-4 col-md-6 col-12 mt-n5">
-                  <a href="javascript:;">
-                    <div class="p-3 pe-md-0">
-                      <img class="w-100 border-radius-md shadow-lg" src="" alt="image">
-                    </div>
-                  </a>
                 </div>
                 <div class="col-lg-8 col-md-6 col-12 my-auto">
                   <div class="card-body ps-lg-0">
                     <h5 class="mb-0">Mustofa</h5>
                     <h6 class="text-info">Treasurer</h6>
-                    <p class="mb-0">Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
                   </div>
                 </div>
               </div>
@@ -128,17 +109,11 @@
             <div class="card card-profile mt-lg-4 mt-5 z-index-2">
               <div class="row">
                 <div class="col-lg-4 col-md-6 col-12 mt-n5">
-                  <a href="javascript:;">
-                    <div class="p-3 pe-md-0">
-                      <img class="w-100 border-radius-md shadow-lg" src="" alt="image">
-                    </div>
-                  </a>
                 </div>
                 <div class="col-lg-8 col-md-6 col-12 my-auto">
                   <div class="card-body ps-lg-0">
                     <h5 class="mb-0">Marzuki</h5>
                     <h6 class="text-info">Advisor</h6>
-                    <p class="mb-0">Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
                   </div>
                 </div>
               </div>
@@ -148,17 +123,11 @@
             <div class="card card-profile mt-lg-4 mt-5 z-index-2">
               <div class="row">
                 <div class="col-lg-4 col-md-6 col-12 mt-n5">
-                  <a href="javascript:;">
-                    <div class="p-3 pe-md-0">
-                      <img class="w-100 border-radius-md shadow-lg" src="" alt="image">
-                    </div>
-                  </a>
                 </div>
                 <div class="col-lg-8 col-md-6 col-12 my-auto">
                   <div class="card-body ps-lg-0">
                     <h5 class="mb-0">Efendi</h5>
                     <h6 class="text-info">Cleanliness Section</h6>
-                    <p class="mb-0">Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
                   </div>
                 </div>
               </div>
@@ -168,17 +137,11 @@
             <div class="card card-profile mt-lg-4 mt-5 z-index-2">
               <div class="row">
                 <div class="col-lg-4 col-md-6 col-12 mt-n5">
-                  <a href="javascript:;">
-                    <div class="p-3 pe-md-0">
-                      <img class="w-100 border-radius-md shadow-lg" src="" alt="image">
-                    </div>
-                  </a>
                 </div>
                 <div class="col-lg-8 col-md-6 col-12 my-auto">
                   <div class="card-body ps-lg-0">
                     <h5 class="mb-0">Agus Khodar, Basori, Bukat</h5>
                     <h6 class="text-info">Security</h6>
-                    <p class="mb-0">Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
                   </div>
                 </div>
               </div>
@@ -188,17 +151,11 @@
             <div class="card card-profile mt-lg-4 mt-5 z-index-2">
               <div class="row">
                 <div class="col-lg-4 col-md-6 col-12 mt-n5">
-                  <a href="javascript:;">
-                    <div class="p-3 pe-md-0">
-                      <img class="w-100 border-radius-md shadow-lg" src="" alt="image">
-                    </div>
-                  </a>
                 </div>
                 <div class="col-lg-8 col-md-6 col-12 my-auto">
                   <div class="card-body ps-lg-0">
                     <h5 class="mb-0">Musafa, Noris</h5>
                     <h6 class="text-info">Creativity Section</h6>
-                    <p class="mb-0">Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
                   </div>
                 </div>
               </div>
@@ -208,17 +165,11 @@
             <div class="card card-profile mt-lg-4 mt-5 z-index-2">
               <div class="row">
                 <div class="col-lg-4 col-md-6 col-12 mt-n5">
-                  <a href="javascript:;">
-                    <div class="p-3 pe-md-0">
-                      <img class="w-100 border-radius-md shadow-lg" src="" alt="image">
-                    </div>
-                  </a>
                 </div>
                 <div class="col-lg-8 col-md-6 col-12 my-auto">
                   <div class="card-body ps-lg-0">
                     <h5 class="mb-0">Sunardi, Efendi, Su'udi, Roli, Ana, Novi</h5>
                     <h6 class="text-info">Support</h6>
-                    <p class="mb-0">Artist is a term applied to a person who engages in an activity deemed to be an art.</p>
                   </div>
                 </div>
               </div>

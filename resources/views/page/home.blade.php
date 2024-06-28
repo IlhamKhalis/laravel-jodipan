@@ -289,7 +289,7 @@
                                 Dari gang-gang sempit yang dihiasi dengan warna-warni ceria hingga pemandangan Instagramable di setiap sudutnya. Ayo, kunjungi sekarang dan rasakan keajaiban seni jalanan di Malang!
                             </p>
                             <a
-                                href="gallery-id.html"
+                                href="{{ route('home.gallery') }}"
                                 class="btn btn-primary btn-lg mb-3 mb-sm-0"
                                 >Galeri</a
                             >

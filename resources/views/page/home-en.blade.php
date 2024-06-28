@@ -285,7 +285,7 @@
                   From narrow alleys decorated with cheerful colors to Instagrammable views around every corner. Come on, visit now and feel the magic of street art in Malang!
                 </p>
                 <a
-                  href="gallery-en.html"
+                  href="{{ route('home.galleryEn') }}"
                   class="btn btn-primary btn-lg mb-3 mb-sm-0"
                   >Gallery</a
                 >
